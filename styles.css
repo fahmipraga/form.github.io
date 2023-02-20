@@ -1,0 +1,104 @@
+body {
+    background: url(anna-tsukanova-D4kXROVeLt4-unsplash.jpg);
+    height: 100vw;
+    background-size: cover;
+}
+
+.container {
+    width: 500px;
+    margin: auto;
+}
+
+.containers {
+    width: 700px;
+    margin: auto;
+    padding: 0px auto;
+}
+
+.header {
+    width: 500px;
+}
+
+.header h1 {
+    color: white;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container .paragraph {
+    text-align: center;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+
+form {
+    width: 700px;
+    padding: 0px auto;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+
+.radio input {
+    margin-top: 20px;
+    vertical-align: auto;
+}
+
+.containers {
+    background-color: #393053;
+    border-radius: 5px;
+    height: 1300px;
+    padding: 50px;
+}
+
+.containers #block {
+    margin-top: 30px;
+}
+
+.containers #block input {
+    display: block;
+    margin-top: 10px;
+    width: 100%;
+    height: 30px;
+    background-color: white;
+    border: none;
+    color: white;
+}
+
+.containers #block select {
+    width: 100%;
+    margin-top: 20px;
+    height: 30px;
+}
+
+.containers #block label {
+    display: block;
+}
+
+.containers .checkbox .input {
+    margin-top: 10px;
+}
+
+.containers .checkbox {
+    margin-top: 30px;
+}
+
+.textarea {
+    margin-top: 30px;
+}
+
+.textarea textarea {
+    background-color: white;
+    margin-top: 20px;
+    width: 100%;
+    height: 100px;
+    border-radius: 5px;
+}
+
+.button button {
+    margin-top: 20px;
+    border-radius: 5px;
+    height: 40px;
+    width: 100%;
+    font-family: 'Open Sans', sans-serif;
+    cursor: pointer;
+}
